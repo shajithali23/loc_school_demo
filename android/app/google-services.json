@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "247397214279",
+    "project_id": "lucus-demo",
+    "storage_bucket": "lucus-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247397214279:android:425cc5777980b5d54d2962",
+        "android_client_info": {
+          "package_name": "com.example.location_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247397214279-e17desql8c825773stdjvrulomjuiuio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDCtJHZ7j9PLd5dRvLYK_NazbrixsApps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247397214279-e17desql8c825773stdjvrulomjuiuio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247397214279:android:9408574f5538f30d4d2962",
+        "android_client_info": {
+          "package_name": "com.example.school_management_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247397214279-e17desql8c825773stdjvrulomjuiuio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDCtJHZ7j9PLd5dRvLYK_NazbrixsApps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247397214279-e17desql8c825773stdjvrulomjuiuio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
