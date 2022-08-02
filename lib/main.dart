@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
     
     return MaterialApp(
     debugShowCheckedModeBanner: false,
-      title: 'School Management App',
+      title: 'Institution App',
       
       home: LoginScreen(),
     );
